@@ -1,0 +1,6 @@
+transformers
+torch
+accelerate
+sentence-transformers
+chromadb
+pypdf
