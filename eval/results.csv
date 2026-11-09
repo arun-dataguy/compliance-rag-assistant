@@ -1,0 +1,134 @@
+question,expected_keywords,expected_source,answerable,answer,correct,retrieval_hit,cited,cited_correct_source,refused
+How long does an organisation have to respond to a subject access request?,one month,ICO_01_right-of-access.pdf,yes,An organisation has one month to respond to a subject access request unless it needs to extend the time based on the complexity of the request or additional information required.,True,True,False,False,False
+By how long can the deadline for a subject access request be extended?,two months,ICO_01_right-of-access.pdf,yes,The deadline for a subject access request can be extended by a maximum of three months from the original start date. [1],False,True,True,True,False
+When can an organisation extend the time limit for a subject access request?,complex,ICO_01_right-of-access.pdf,yes,"An organisation can extend the time limit for a subject access request if the request is considered complex and requires additional time to process. According to the document, the organisation must determine if the request is complex based on its specific circumstances and the particular request. Factors such as the size and resources of the organisation, technical difficulties, and exemptions involving large volumes of sensitive information can contribute to making a request complex. The organisation must then be able to demonstrate why the request is complex in those particular circumstances. Additionally, the organisation must notify the person who submitted the request of the extension within one month of either receiving the request or confirming the identity of the person, the third party's authorization, or a fee. The organisation also needs to clarify the reasons for the delay in processing the request if necessary.",True,True,False,False,False
+A complex request arrives on 7 August. What is the latest date the organisation can respond?,7 november,ICO_01_right-of-access.pdf,yes,"The latest date the organization can respond is the end of November, assuming no extensions are granted.",False,True,False,False,False
+What happens if the deadline for a subject access request falls on a weekend?,next working day,ICO_01_right-of-access.pdf,yes,"If the deadline for a subject access request falls on a weekend, the deadline moves to the end of the next working day.",True,True,False,False,False
+What fixed number of days can an organisation use to always meet the one-month deadline?,28,ICO_01_right-of-access.pdf,yes,An organisation can use a 28-day period to ensure that they always comply within a calendar month.,True,True,False,False,False
+Can an organisation charge a fee for a subject access request?,manifestly unfounded|excessive,ICO_01_right-of-access.pdf,yes,"Yes, an organisation can charge a fee for a subject access request under certain conditions. According to section 12(1) of the Data Protection Act, the Secretary of State has the power to specify limits on the fees that organisations may charge to deal with a manifestly unfounded or excessive request through regulations. However, currently, there are no such regulations in place.
+
+The key points regarding fees are:
+
+1. **Manifestly Unfounded or Excessive Requests**: If a request is manifestly unfounded or excessive, the organisation can charge a reasonable fee to respond.
+
+2. **Reasonable Fee Calculation**: The fee should be based on the administrative costs associated with assessing the request, locating, retrieving, and extracting the information, providing a copy, communicating the response, and handling any additional actions required.
+
+3. **Staff Time Costs**: Staff time costs should be calculated at a reasonable hourly rate.
+
+4. **Criteria for Fees**: Organisations should establish unbiased criteria for charging fees, including explanations of the circumstances under which they charge a fee, standard charges, and how fees are calculated.
+
+5. **Availability of Criteria**: These criteria should be made available upon request, though they do not have to be published online.
+
+In summary, while organisations generally cannot charge a fee for a subject access request, they can do so if the request is manifestly unfounded or excessive. The process involves considering the administrative costs and ensuring transparency in the fee structure.",True,True,False,False,False
+Can an organisation charge if someone asks for extra copies of their information?,further copies,ICO_01_right-of-access.pdf,yes,"Yes, an organisation can charge if someone asks for extra copies of their information. This is allowed under certain conditions, such as if the request was manifestly unfounded or excessive, or if the person has already made multiple requests within a short period. The organization must assess whether the request is manifestly unfounded or excessive before deciding to charge. Additionally, the organization should consider the administrative costs associated with locating, retrieving, and extracting the information, providing a copy, and communicating the response.
+
+The relevant section from the document states:
+
+""Alternatively, you can refuse to comply with a manifestly unfounded or excessive request. See Exemptions: when can we consider a request to be manifestly unfounded or excessive? When determining a reasonable fee, you can consider the administrative costs of: • assessing whether or not you are processing the information;
+• locating, retrieving and extracting the information;
+• providing a copy of the information; and 
+• communicating the response to the person, including contacting them to tell them that you hold the requested information (even if you are not going to provide it).""
+
+This indicates that organizations have discretion over whether to charge for additional copies based on the complexity and volume of the request.",False,True,False,False,False
+Does a subject access request have to be made in writing?,verbally,ICO_01_right-of-access.pdf,yes,"Yes, according to Source [2], a subject access request (SAR) can be made either verbally or in writing, including through social media.",True,True,True,True,False
+Can someone make a subject access request through social media?,yes,ICO_01_right-of-access.pdf,yes,"Yes. People can make a SAR using any social media site where your organisation has a presence. Therefore, you must take reasonable and proportionate steps to identify and disclose relevant information when people make requests on your social media channels. [1]",True,True,True,True,False
+Can an organisation ask for ID before responding to a subject access request?,identity,ICO_01_right-of-access.pdf,yes,"Yes, according to Source [1], an organisation can ask for ID before responding to a subject access request. Specifically, the document states:
+
+""You can ask for enough information to judge if the requester (or the person the request is made on behalf of) is the person whom the information is about. You should be reasonable and proportionate about what you ask for.""
+
+This allows organisations to determine if the individual requesting access is indeed the correct party before proceeding with the request process.",False,True,True,True,False
+What happens to the response deadline when an organisation asks the requester to clarify their request?,pause,ICO_01_right-of-access.pdf,yes,The response deadline stops when the requester asks for clarification. [1],False,True,True,True,False
+Can a solicitor make a subject access request on behalf of a client?,authority,ICO_01_right-of-access.pdf,yes,"Yes, a solicitor can make a subject access request on behalf of a client. [2]",False,True,True,True,False
+At what age is a child in Scotland presumed able to make their own subject access request?,12,ICO_01_right-of-access.pdf,yes,The child is presumed to be able to make their own subject access request when they reach the age of 12 years old in Scotland.,True,True,False,False,False
+Does an organisation still have to respond if the requester dies before it replies?,living,ICO_01_right-of-access.pdf,yes,"Yes, an organisation still needs to respond if the requester dies before providing a response. According to Source [1], ""if you receive a SAR from a person who was authorised to act on behalf of the deceased person when they were alive"" or if the person mentioned other rights, the organisation is not required to respond after the person has died. Additionally, Source [1] states that ""A person cannot make a SAR to access information about a deceased person,"" further supporting the requirement for an immediate response.",False,True,True,True,False
+Is an email moved to the Deleted items folder treated as deleted for a subject access request?,accessible,ICO_01_right-of-access.pdf,yes,"Yes, an email moved to the ""Deleted items"" folder is still considered accessible and therefore relevant for a Subject Access Request (SAR). According to Source [2], moving an email to the ""Deleted items"" folder merely indicates that the sender intends to remove the message from their current system, rather than completely erasing it. As long as the email remains accessible through its original location, it could potentially contain personal information related to the individual making the SAR.",True,True,True,True,False
+Is it illegal to change records to stop them being disclosed in response to a subject access request?,offence,ICO_01_right-of-access.pdf,yes,"Yes, according to Article 4(6) of the UK GDPR, it is an offense to make any amendment to requested information with the intention of preventing its disclosure. [3]",False,True,True,True,False
+Can an organisation give its response to a subject access request verbally?,identity,ICO_01_right-of-access.pdf,yes,"Yes, according to Source [1], organisations can give responses to subject access requests verbally.",False,True,True,True,False
+What makes a subject access request manifestly unfounded?,malicious,ICO_01_right-of-access.pdf,yes,"Manifestly unfounded refers to a situation where a request is made without a legitimate reason or purpose, often indicating a pattern of behavior that suggests the request is not genuinely seeking access to personal information under the Data Protection Act 2018. This includes instances where a person's request is made repeatedly, maliciously, or with the intent to disrupt operations. The key indicators include making requests while already having made similar requests before, engaging in harassment through unsubstantiated claims, or showing a history of filing multiple requests related to the same matter. Additionally, broader factors like previous FOI requests, service level complaints, or exercising other data protection rights could support the conclusion that the request is manifestly unfounded.",True,True,False,False,False
+"Apart from a copy of their data, what else is a person entitled to receive?",purposes|categories,ICO_01_right-of-access.pdf,yes,"People have the right to receive the following supplementary information:
+
+- Your purposes for processing their information,
+- The categories of personal information you're processing,
+- The identities of specific recipients you have or will be disclosing the personal information to (including those in countries or territories outside the UK, or in international organizations),
+- How long you will keep their personal information for – or, where this is not possible, the criteria for deciding how long you will store it,
+- Their right to request rectification, erasure or restriction, or to object to processing,
+- Their right to make a complaint to the controller,
+- Their right to make a complaint to the ICO,
+- Information about the source of their personal information, if you did not obtain it directly from them,
+- Whether or not you use automated decision-making (including profiling), meaningful information about the logic involved in the processing, and the significance and envisaged consequences of the processing for the person,
+- The appropriate safeguards you apply if you have transferred or will transfer personal information to a third country or international organization.",True,True,False,False,False
+What information does a subject access request to a credit reference agency cover by default?,financial standing,ICO_01_right-of-access.pdf,yes,"The default information covered by a subject access request to a credit reference agency includes:
+
+- Confirmation that the organization is processing the individual's personal information.
+- A copy of the individual's personal information.
+- Supplementary information.
+
+This information pertains to the default scope of what individuals are typically entitled to upon making a SAR to a credit reference agency, according to the Data Protection Act 2018.",False,True,False,False,False
+How many lawful bases for processing are there under the UK GDPR?,seven,ICO_15_a-guide-to-lawful-basis.pdf,yes,"There are seven lawful bases for processing under the UK GDPR. These include consent, contract, legal obligation, public task, vital interests, legitimate interest, and special category data conditions.",True,True,False,False,False
+What are the lawful bases for processing personal data?,consent|contract|legal obligation|vital interests|public task|legitimate interests,ICO_15_a-guide-to-lawful-basis.pdf,yes,"The lawful bases for processing personal data are:
+
+(a) Consent: the person has clearly given consent for you to use their information for a specific purpose.
+
+(b) Contract: the processing is necessary for a contract you have with the person, or because they have asked you to take specific steps before entering into a contract.
+
+(c) Legal obligation: the processing is necessary for you to comply with the law (not including contractual obligations).
+
+These bases must be applied at least once when handling personal information.",False,True,False,False,False
+What are the pre-approved purposes for the recognised legitimate interest basis?,safeguarding|emergencies|crime,ICO_15_a-guide-to-lawful-basis.pdf,yes,"The pre-approved purposes for the recognised legitimate interest basis include:
+
+- Safeguarding ""vulnerable"" people;
+- Responding to emergencies;
+- Preventing or investigating crime;
+- National security, public security and defense;
+- Sharing personal information with an organization that needs it for their public task or function at their request.
+
+These purposes cannot apply if you're a public authority processing personal information to perform your official tasks.",True,True,False,False,False
+Which lawful basis will a public authority usually rely on?,public task,ICO_15_a-guide-to-lawful-basis.pdf,yes,Public authorities usually rely on the public task basis when handling personal information.,True,True,False,False,False
+"If someone withdraws consent, can the company switch to legitimate interests and keep using their data?",stop,ICO_15_a-guide-to-lawful-basis.pdf,yes,"No, the company cannot switch to the legitimate interests lawful basis after withdrawing consent. According to the sources, once consent is withdrawn, the company must stop using the personal information unless they can justify continuing based on a new and unforeseen purpose. The sources emphasize the importance of clearly informing individuals about changes in legal grounds and documenting such changes.",True,True,False,False,False
+What does necessary mean when choosing a lawful basis?,proportionate,ICO_15_a-guide-to-lawful-basis.pdf,yes,"The lawful basis states that what you want to do must be 'necessary'. If you can reasonably achieve the same purpose without the processing, you won't have a lawful basis.",False,True,False,False,False
+When must an organisation decide its lawful basis?,before,ICO_15_a-guide-to-lawful-basis.pdf,yes,An organisation must determine its lawful basis before starting to handle personal information. [1],True,True,True,True,False
+Which individual rights are not available when processing is based on legal obligation?,erasure|portability|object,ICO_15_a-guide-to-lawful-basis.pdf,yes,I can't find this in the documents provided.,False,True,False,False,True
+What extra requirement applies when processing special category data?,condition,ICO_15_a-guide-to-lawful-basis.pdf,yes,"When processing special category data, in addition to having a lawful basis, you must also identify a condition for using this type of information.
+
+This requirement is explicitly stated in the relevant provision in the UK GDPR, article 9, which states:
+
+""Special categories of data shall be processed only where one of the following grounds exists:
+
+(a) The data subject has given his or her consent;
+
+(b) Processing is necessary for the performance of a contract to which the data subject is a party or in order to take steps at the request of the data subject prior to entering into a contract;
+
+(c) Processing is necessary for compliance with a legal obligation to which the controller is subject;
+
+(d) Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+
+(e) Processing is necessary for reasons of substantial public interest;
+
+(f) Processing is necessary for the protection of the vital interests of the data subject or of another natural person;
+
+(g) Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.""
+
+The source [2] provides further details on how to document these conditions and demonstrates compliance with the UK GDPR.",True,True,True,True,False
+Where must an organisation tell people which lawful basis it uses?,privacy information,ICO_15_a-guide-to-lawful-basis.pdf,yes,"According to the sources provided, organizations must disclose the lawful basis used for processing personal information when providing individuals with access to their personal data under Article 17 of the General Data Protection Regulation (GDPR). Specifically, the sources mention:
+
+- ""A guide to lawful basis"" states that organizations must identify and document all applicable lawful bases from the outset.
+- Another resource suggests using a ""lawful basis interactive guidance tool"" to provide tailored guidance on choosing the most appropriate lawful basis.
+
+Therefore, organizations must inform individuals about the lawful basis they are using for processing their personal data upon request under Article 17 of the GDPR.",False,True,False,False,False
+Do people have the right to object to direct marketing whatever the lawful basis?,absolute,ICO_15_a-guide-to-lawful-basis.pdf,yes,"Yes, according to the sources, people have the absolute right to object to the use of their information for the purposes of direct marketing, regardless of the lawful basis applied. [1]",True,True,True,True,False
+What is the capital of France?,,,no,I can't find this in the documents provided.,True,,,,True
+What is the corporation tax rate in the UK?,,,no,I can't find this in the documents provided.,True,,,,True
+How quickly must a personal data breach be reported to the ICO?,,,no,[I cannot find this in the documents provided.],True,,,,True
+How long must employers keep payroll records?,,,no,The employer must have defined retention periods for how long they keep payroll records.,False,,,,False
+Do websites need consent before setting non-essential cookies?,,,no,"No, websites typically do not require explicit consent from users before setting non-essential cookies. According to the sources provided:
+
+1. [1] (ICO_01_right-of-access.pdf, page 92) indicates that while obtaining consent is one option, it's not always necessary. Consent is required under certain conditions like when dealing with children.
+
+2. [2] (ICO_15_a-guide-to-lawful-basis.pdf, page 4) suggests considering the balance of interests involved, including the duty of confidentiality and potential harm to individuals.
+
+3. [3] (ICO_01_right-of-access.pdf, page 23) notes that requests mentioning ""freedom of information"" should generally be treated as SARs rather than FOI requests.
+
+4. [4] (ICO_01_right-of-access.pdf, page 9) explains that the right of access allows people to obtain copies of their personal information and other supplementary information.
+
+Therefore, websites often rely on legitimate interest as a lawful basis for processing user data, especially regarding non-essential cookies, without necessarily needing explicit consent.",False,,,,False
+What is the national minimum wage for workers aged 21 and over?,,,no,I can't find this in the documents provided.,True,,,,True

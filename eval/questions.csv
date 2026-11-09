@@ -1,0 +1,39 @@
+question,expected_keywords,expected_source,answerable
+How long does an organisation have to respond to a subject access request?,one month,ICO_01_right-of-access.pdf,yes
+By how long can the deadline for a subject access request be extended?,two months,ICO_01_right-of-access.pdf,yes
+When can an organisation extend the time limit for a subject access request?,complex,ICO_01_right-of-access.pdf,yes
+A complex request arrives on 7 August. What is the latest date the organisation can respond?,7 november,ICO_01_right-of-access.pdf,yes
+What happens if the deadline for a subject access request falls on a weekend?,next working day,ICO_01_right-of-access.pdf,yes
+What fixed number of days can an organisation use to always meet the one-month deadline?,28,ICO_01_right-of-access.pdf,yes
+Can an organisation charge a fee for a subject access request?,manifestly unfounded|excessive,ICO_01_right-of-access.pdf,yes
+Can an organisation charge if someone asks for extra copies of their information?,further copies,ICO_01_right-of-access.pdf,yes
+Does a subject access request have to be made in writing?,verbally,ICO_01_right-of-access.pdf,yes
+Can someone make a subject access request through social media?,yes,ICO_01_right-of-access.pdf,yes
+Can an organisation ask for ID before responding to a subject access request?,identity,ICO_01_right-of-access.pdf,yes
+What happens to the response deadline when an organisation asks the requester to clarify their request?,pause,ICO_01_right-of-access.pdf,yes
+Can a solicitor make a subject access request on behalf of a client?,authority,ICO_01_right-of-access.pdf,yes
+At what age is a child in Scotland presumed able to make their own subject access request?,12,ICO_01_right-of-access.pdf,yes
+Does an organisation still have to respond if the requester dies before it replies?,living,ICO_01_right-of-access.pdf,yes
+Is an email moved to the Deleted items folder treated as deleted for a subject access request?,accessible,ICO_01_right-of-access.pdf,yes
+Is it illegal to change records to stop them being disclosed in response to a subject access request?,offence,ICO_01_right-of-access.pdf,yes
+Can an organisation give its response to a subject access request verbally?,identity,ICO_01_right-of-access.pdf,yes
+What makes a subject access request manifestly unfounded?,malicious,ICO_01_right-of-access.pdf,yes
+"Apart from a copy of their data, what else is a person entitled to receive?",purposes|categories,ICO_01_right-of-access.pdf,yes
+What information does a subject access request to a credit reference agency cover by default?,financial standing,ICO_01_right-of-access.pdf,yes
+How many lawful bases for processing are there under the UK GDPR?,seven,ICO_15_a-guide-to-lawful-basis.pdf,yes
+What are the lawful bases for processing personal data?,consent|contract|legal obligation|vital interests|public task|legitimate interests,ICO_15_a-guide-to-lawful-basis.pdf,yes
+What are the pre-approved purposes for the recognised legitimate interest basis?,safeguarding|emergencies|crime,ICO_15_a-guide-to-lawful-basis.pdf,yes
+Which lawful basis will a public authority usually rely on?,public task,ICO_15_a-guide-to-lawful-basis.pdf,yes
+"If someone withdraws consent, can the company switch to legitimate interests and keep using their data?",stop,ICO_15_a-guide-to-lawful-basis.pdf,yes
+What does necessary mean when choosing a lawful basis?,proportionate,ICO_15_a-guide-to-lawful-basis.pdf,yes
+When must an organisation decide its lawful basis?,before,ICO_15_a-guide-to-lawful-basis.pdf,yes
+Which individual rights are not available when processing is based on legal obligation?,erasure|portability|object,ICO_15_a-guide-to-lawful-basis.pdf,yes
+What extra requirement applies when processing special category data?,condition,ICO_15_a-guide-to-lawful-basis.pdf,yes
+Where must an organisation tell people which lawful basis it uses?,privacy information,ICO_15_a-guide-to-lawful-basis.pdf,yes
+Do people have the right to object to direct marketing whatever the lawful basis?,absolute,ICO_15_a-guide-to-lawful-basis.pdf,yes
+What is the capital of France?,,,no
+What is the corporation tax rate in the UK?,,,no
+How quickly must a personal data breach be reported to the ICO?,,,no
+How long must employers keep payroll records?,,,no
+Do websites need consent before setting non-essential cookies?,,,no
+What is the national minimum wage for workers aged 21 and over?,,,no
